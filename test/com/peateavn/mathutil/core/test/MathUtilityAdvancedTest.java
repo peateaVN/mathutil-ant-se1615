@@ -35,7 +35,7 @@ public class MathUtilityAdvancedTest {
     public long expected;
     @Parameterized.Parameter(value = 0)//em thích cột 0
 
-    public int n;
+    public double n;
     
     //so sánh expected và actual hoy
     @Test
